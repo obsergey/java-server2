@@ -2,5 +2,4 @@ language: java
 deploy:
   provider: heroku
   api_key:
-    app: java-server2
     secure: 8261f52b-8806-41a2-b242-52c598089f3a
