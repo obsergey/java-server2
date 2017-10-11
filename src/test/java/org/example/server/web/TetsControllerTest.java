@@ -1,4 +1,4 @@
-import org.exaple.server.TestController;
+import org.exaple.server.web.TestController;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
